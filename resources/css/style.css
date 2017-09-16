@@ -37,7 +37,7 @@ header nav {
   flex-wrap: wrap;
 }
 
-header nav span {
+header a {
   color: black;
   padding: 20px;
 }
@@ -164,4 +164,8 @@ footer {
 
 footer nav span {
   padding-left: 20px;
+}
+
+footer a {
+  color: black;
 }
